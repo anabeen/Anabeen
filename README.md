@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I am Software Engineer. I am currently focusing my projects on web and application development. 
+
+Current Projects I am working on:
+- Event Hub: A website where people can see events, create events and join them.  https://github.com/anabeen/EventHub
+- Personal Portfolio: A website that shows all my portfolio. https://anabeen.github.io/Nabeen/
+
+
+
+Future project that I will take:
+- Bot web scrapping information using C#
+
+
 <!--
 **anabeen/Anabeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
