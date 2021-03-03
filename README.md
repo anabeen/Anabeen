@@ -4,7 +4,7 @@ I am Software Engineer. I am currently focusing my projects on web and applicati
 
 Current Projects I am working on:
 - Event Hub: A website where people can see events, create events and join them.  https://github.com/anabeen/EventHub
-- Personal Portfolio: A website that shows all my portfolio. https://anabeen.github.io/Nabeen/
+- Personal Portfolio: A website that shows all my portfolio. https://github.com/anabeen/Nabeen
 
 
 
