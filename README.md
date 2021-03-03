@@ -9,7 +9,8 @@ Current Projects I am working on:
 
 
 Future project that I will take:
-- Bot web scrapping information using C#
+- Bot web scrapping information using C# then send notif to my facebook
+- Website that filers movie/ tv show recommendation using rotten tomatoes audience score above 85% 
 
 
 <!--
